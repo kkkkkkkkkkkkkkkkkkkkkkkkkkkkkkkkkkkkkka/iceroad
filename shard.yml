@@ -10,6 +10,8 @@ targets:
     main: src/attack.cr
   afk:
     main: src/afk.cr
+  iceroad:
+    main: src/iceroad.cr
 
 crystal: '>= 1.17.1'
 
